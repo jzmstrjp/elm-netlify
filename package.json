@@ -8,5 +8,8 @@
     "build": "elm make src/Main.elm --optimize --output public/elm.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "elm": "0.19.0-bugfix6"
+  }
 }
